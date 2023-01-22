@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小魏同学祝你工作愉快!&center=true&size=27"> </a> </h1>
+
+
+
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=zechaowei&show_icons=true&theme=tokyonight)
