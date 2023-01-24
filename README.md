@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zechaowei&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zechaowei&repo=zechaowei.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 热门语言卡片显示了 GitHub 用户常用的编程语言 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zechaowei)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zechaowei&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
