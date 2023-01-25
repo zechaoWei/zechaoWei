@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zechaowei&repo=zechaowei.github.io)](https://github.com/zechaowei/zechaowei.github.io)
 
 <!-- 热门语言卡片显示了 GitHub 用户常用的编程语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zechaowei)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zechaowei)](https://github.com/zechaowei/idea-demo/tree/master)
+-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zechaowei&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
