@@ -33,4 +33,4 @@ Here are some ideas to get you started:
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zechaowei)](https://github.com/zechaowei/idea-demo/tree/master)
 -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zechaowei&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zechaowei&theme=tokyo-night)](https://github.com/zechaowei/idea-demo)
