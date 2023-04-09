@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on ...  我目前正在做... -->
-- 🌱 I’m currently learning JavaSE.     <!-- 我目前正在学习 ... -->
+- 🌱 I’m currently learning JavaWeb & Android.     <!-- 我目前正在学习 ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->  <!-- 我想要的合作... -->
 <!-- - 🤔 I’m looking for help with ...  -->   <!-- 我在寻求帮助 -->
 - 💬 Ask me about ...               <!-- 问我相关问题 -->
